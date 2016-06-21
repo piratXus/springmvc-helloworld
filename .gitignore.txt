@@ -1,0 +1,6 @@
+/.idea/
+/classes/
+/java_Practic/
+/target/
+/task1/
+.*iml
